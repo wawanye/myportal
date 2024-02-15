@@ -1,0 +1,23 @@
+My Example Page
+
+Testing
+
+How to update to github.
+
+Process flow as developer:
+
+Remote repo (github repository)
+
+clone inside local pc (working directory)
+
+we create a new file and save (working directory)
+
+then how to sync into the remote repository
+
+git add from working area into staging area
+then git commit from staging area into local repository
+then git push from local repository into remote repository
+
+git pull from remote repository into local repository
+then git checkout from local repository into working area
+
