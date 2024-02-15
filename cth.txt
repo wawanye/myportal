@@ -21,3 +21,11 @@ then git push from local repository into remote repository
 git pull from remote repository into local repository
 then git checkout from local repository into working area
 
+stash mode
+commit mode
+
+How to create a new branch
+fungsi utk mengawal/control/sreamline workflow
+main tu dikira production branch
+if nak create staging branch atau develoment branch
+
